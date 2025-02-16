@@ -12,7 +12,7 @@ Here are some of the key repositories in this organization:
 
 - **[-INDEX-](https://github.com/f-ras-42Course/-INDEX-)**: 📌 Start here to get a comprehensive overview of all the projects in the curriculum, presented in the recommended order.
 
-- **[webserv](https://github.com/f-ras-42Course/webserv)**: 🌐 A project focused on building a simple HTTP web server from scratch in C++. It handles client requests, parses configurations, manages sockets, and supports features like CGI execution and concurrent connections, mimicking the behavior of servers like Nginx or Apache.
+- **[webserv](https://github.com/f-ras-42Course/webserv)** _(work-in-progress)_: 🌐 A project focused on building a simple HTTP web server from scratch in C++. It handles client requests, parses configurations, manages sockets, and supports features like CGI execution and concurrent connections, mimicking the behavior of servers like Nginx or Apache.
 
 - **[Minishell](https://github.com/f-ras-42Course/minishell)**: 🖥️ A minimalistic UNIX shell implementation in C that supports command execution, pipes, redirections, environment variables, and signal handling. This project replicates key features of Bash, reinforcing understanding of system calls and process management.
 
